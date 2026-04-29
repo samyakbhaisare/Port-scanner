@@ -42,6 +42,13 @@ This project is an advanced Python-based port scanner that identifies open ports
 
 
 
+## Output
+
+- Scan results are saved in scan_results.txt file
+- Includes port, service, and risk level
+
+
+
 ## ▶️ How to Run
 
 Run the following command in the terminal:
@@ -77,6 +84,14 @@ python3 port_scanner.py
 
 
 ![Results](screenshots/results.png)
+
+
+
+## Future Improvements
+
+- Add GUI interface
+- Add OS detection
+- Integrate vulnerability scanning
 
 
 
